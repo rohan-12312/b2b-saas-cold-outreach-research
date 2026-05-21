@@ -55,7 +55,7 @@ Strong focus on operational outbound execution, SDR efficiency, and scalable pro
 
 ---
 
-## 2. Justin Welsh
+# 2. Justin Welsh
 
 Platform:
 LinkedIn / Twitter / Newsletter
@@ -109,7 +109,7 @@ Strong emphasis on trust-based growth, scalable content systems, and founder-led
 
 ---
 
-# 2. Iman Gadzhi
+# 3. Iman Gadzhi
 Platform:
 
 YouTube
@@ -167,7 +167,7 @@ Strong focus on scalable client acquisition systems, agency growth strategies, a
 
 ---
 
-## 4. Kyle Coleman
+# 4. Kyle Coleman
 
 Platform:
 LinkedIn / Podcasts
@@ -219,7 +219,7 @@ Strong focus on scalable GTM operations and modern SaaS revenue-growth systems.
 
 ---
 
-## 5. Alex Hormozi
+# 5. Alex Hormozi
 
 Platform:
 YouTube / LinkedIn / Podcasts
@@ -275,7 +275,7 @@ Annotation:
 Strong emphasis on measurable growth systems, acquisition scalability, and operational simplicity.
 
 
-## 6. Belal Batrawy
+# 6. Belal Batrawy
 
 Platform:
 LinkedIn / Podcasts
@@ -327,7 +327,7 @@ Strong emphasis on experimentation-driven outbound systems and improving engagem
 
 ---
 
-## 7. Jason Bay
+# 7. Jason Bay
 
 Platform:
 LinkedIn / Podcasts / Website
@@ -380,7 +380,7 @@ Strong focus on disciplined prospecting systems and repeatable outbound executio
 
 ---
 
-## 8. Josh Braun
+# 8. Josh Braun
 
 Platform:
 LinkedIn / YouTube
@@ -432,7 +432,7 @@ Strong emphasis on buyer psychology and reducing resistance during outbound comm
 
 ---
 
-## 9. Tristan Pelligrino
+# 9. Tristan Pelligrino
 
 Platform:
 LinkedIn / Podcasts
@@ -482,7 +482,7 @@ Strong focus on integrating outbound growth with scalable content and marketing 
 
 ---
 
-## 10. Chris Orlob
+# 10. Chris Orlob
 
 Platform:
 LinkedIn
