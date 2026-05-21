@@ -1,4 +1,4 @@
-# B2B SaaS Outbound & GTM Research Repository
+# # Cold Outreach Pipeline for B2B SaaS RESEARCH 
 
 ## Overview
 
