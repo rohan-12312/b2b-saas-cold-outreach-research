@@ -88,7 +88,7 @@ research/
 │   ├── alex-hormozi/
 │   ├── josh-braun/
 │   ├── justin-welsh/
-│   └── david-fogarty/
+│   └── iman-gadzhi/
 │
 └── other/
     ├── outbound-patterns.md
@@ -122,7 +122,7 @@ research/
 ---
 
 ### YouTube-Based Educational Creators
-- David Fogarty
+- Iman Gadzhi
 
 ---
 
