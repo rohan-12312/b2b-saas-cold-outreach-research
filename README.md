@@ -1,4 +1,4 @@
-# # Cold Outreach Pipeline for B2B SaaS RESEARCH 
+# Cold Outreach Pipeline for B2B SaaS RESEARCH 
 
 ## Overview
 
