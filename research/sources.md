@@ -109,55 +109,61 @@ Strong emphasis on trust-based growth, scalable content systems, and founder-led
 
 ---
 
-## 3. Cold Email Wizard
-
+# Iman Gadzhi
 Platform:
+
 YouTube
 
 Profile Links:
-https://www.youtube.com/@ColdEmailWizard
+
+https://www.youtube.com/@ImanGadzhi
 
 Current Industry Position:
-Outbound outreach creator focused on practical cold email campaign systems and lead generation frameworks.
+
+Entrepreneur, digital marketing educator, and online business creator focused on agency growth, client acquisition systems, and personal brand-led business scaling.
 
 Date Accessed:
+
 May 2026
 
 Professional Background:
-Cold Email Wizard creates educational content focused on cold outreach execution, email campaign structures, lead generation systems, and outbound optimization strategies.
+
+Iman Gadzhi is a YouTube-based entrepreneur known for teaching how to build and scale online service businesses, especially digital marketing agencies. His content focuses on practical client acquisition systems, sales processes, and personal branding strategies that help founders generate predictable revenue online.
+
+He is widely followed by young entrepreneurs for his direct-response marketing approach and step-by-step business building frameworks.
 
 Focus Areas:
-- Cold email systems
-- Lead generation
-- Outreach campaigns
-- Email personalization
-- Outbound automation
-- Prospect targeting
-
+Digital marketing agency growth
+Client acquisition systems
+Paid advertising strategies (Meta / YouTube)
+Sales and closing frameworks
+Personal branding for founders
+Lead generation systems
+Business scaling strategies
 Why Chosen:
-The creator provides actionable and implementation-focused outbound frameworks that are highly relevant for understanding modern cold outreach systems.
+
+Iman Gadzhi is included because he provides actionable, system-based strategies for acquiring clients and scaling online businesses. His YouTube content strongly aligns with outbound growth thinking, making it relevant for B2B SaaS and GTM research.
 
 Key Topics Covered:
-- Cold email campaign setup
-- Outreach personalization
-- Lead targeting
-- Email copywriting
-- Campaign optimization
-- Follow-up sequences
-- Prospect engagement
-
+Cold outreach and client acquisition funnels
+High-ticket sales systems
+Paid ads and conversion optimization
+Personal brand-driven inbound growth
+Agency scaling frameworks
+Marketing and positioning strategies
 Research Value:
-Useful for understanding the tactical execution side of outbound email systems and campaign management.
+
+His content is useful for understanding how modern internet businesses structure client acquisition systems using a combination of outreach, paid ads, and personal branding. These principles are transferable to SaaS outbound and growth systems.
 
 Common Themes Observed:
-- Simplicity in messaging
-- High personalization
-- Short-form outreach
-- Strong CTAs
-- Consistent follow-ups
-
+Systems over luck
+Direct response marketing mindset
+Scalable acquisition funnels
+High-ticket positioning
+Personal brand leverage
 Annotation:
-Strong focus on practical implementation and scalable outbound outreach systems.
+
+Strong focus on scalable client acquisition systems, agency growth strategies, and performance-driven marketing frameworks applicable to SaaS and outbound sales environments.
 
 ---
 
