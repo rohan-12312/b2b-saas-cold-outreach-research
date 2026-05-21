@@ -109,7 +109,7 @@ Strong emphasis on trust-based growth, scalable content systems, and founder-led
 
 ---
 
-# Iman Gadzhi
+# 2. Iman Gadzhi
 Platform:
 
 YouTube
